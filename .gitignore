@@ -94,3 +94,10 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains+all
 
+udemy/100days/day_001-1.py
+udemy/100days/.idea/100days.iml
+udemy/100days/.idea/misc.xml
+udemy/100days/.idea/modules.xml
+udemy/100days/.idea/vcs.xml
+udemy/100days/.idea/workspace.xml
+udemy/100days/.idea/inspectionProfiles/profiles_settings.xml

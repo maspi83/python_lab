@@ -1,0 +1,6 @@
+print ("Count chars in string")
+count_number = len(input("Give me something to work with: "))
+print (type(count_number))
+print ("Print string")
+string_value = input("Give me a string: ")
+print (type(string_value))
