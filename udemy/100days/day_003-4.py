@@ -5,6 +5,10 @@ add_pepperoni = input("Do you want pepperoni? Y or N ")
 extra_cheese = input("Do you want extra cheese? Y or N ")
 # 🚨 Don't change the code above 👆
 
+# old I could use
+# price = 0
+# price += 15 and so on
+
 #Write your code below this line 👇
 if size == "S":
     price = 15
