@@ -7,3 +7,4 @@ udemy/**/.idea/workspace.xml
 udemy/**/.idea/inspectionProfiles/profiles_settings.xml
 .idea/*
 .venv/*
+*__pycache__*
