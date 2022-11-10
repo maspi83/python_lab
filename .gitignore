@@ -101,3 +101,5 @@ udemy/**/.idea/modules.xml
 udemy/**/.idea/vcs.xml
 udemy/**/.idea/workspace.xml
 udemy/**/.idea/inspectionProfiles/profiles_settings.xml
+
+.venv/*
