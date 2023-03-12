@@ -103,3 +103,4 @@ udemy/**/.idea/workspace.xml
 udemy/**/.idea/inspectionProfiles/profiles_settings.xml
 
 .venv/*
+.DS_Store/*
