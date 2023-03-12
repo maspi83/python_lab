@@ -1,0 +1,8 @@
+dir(str) - methods for function,
+method example capitalize, append
+function - print
+
+help("omg".capitalize)
+
+# Links
+https://pythonhow.com/coding/d2c3/
